@@ -1,4 +1,5 @@
 # WWDC Projeleri
+WWDC Scholarship için hazırlanmış playground projelerini keşfet!
 
 &nbsp;
 
