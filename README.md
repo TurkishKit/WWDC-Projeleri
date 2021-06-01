@@ -6,6 +6,7 @@ WWDC Scholarship için hazırlanmış playground projelerini keşfet!
 ## 2021
 * [Machine Dreams](https://github.com/canbalkaya/Machine-Dreams-WWDC21) - [Can Balkaya](https://github.com/canbalkaya)
 * [IdeaPrax](https://github.com/berkinceylan/WWDC21) - [Berkin Ceylan](https://github.com/berkinceylan)
+* [Barcodes](https://github.com/baranonen/WWDC21-Barcodes) - [Baran Önen](https://github.com/baranonen)
 
 &nbsp;
 
