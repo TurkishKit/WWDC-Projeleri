@@ -1,1 +1,1 @@
-# Kazanan-WWDC-Projeleri
+# Kazanan WWDC Projeleri
