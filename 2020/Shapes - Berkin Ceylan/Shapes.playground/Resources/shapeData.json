@@ -1,0 +1,94 @@
+[
+    {
+        "side": 0,
+        "name": "Point",
+        "description": "It all starts with a point.",
+        "subDescription": "A point does not represent a polygon alone, but what if its friend comes?",
+    },
+    {
+        "side": 1,
+        "name": "Points",
+        "description": "Now we have 2 points.",
+        "subDescription": "So would a line of points form a polygon?",
+    },
+    {
+        "side": 2,
+        "name": "Line",
+        "description": "You did it! Now we have a line.🤟🏻",
+        "subDescription": "So if we draw 2 new lines, can we get a polygon?",
+    },
+    {
+        "side": 3,
+        "name": "Triangle",
+        "description": "Finally! We have a 3 sided polygon.🎉",
+        "subDescription": "This polygon is called a Triangle, and each side has 60 degrees.",
+    },
+    {
+        "side": 4,
+        "name": "Square",
+    },
+    {
+        "side": 5,
+        "name": "Pentagon",
+    },
+    {
+        "side": 6,
+        "name": "Hexagon",
+    },
+    {
+        "side": 7,
+        "name": "Heptagon",
+    },
+    {
+        "side": 8,
+        "name": "Octagon",
+    },
+    {
+        "side": 9,
+        "name": "Nonagon",
+    },
+    {
+        "side": 10,
+        "name": "Decagon",
+    },
+    {
+        "side": 11,
+        "name": "Hendecagon",
+    },
+    {
+        "side": 12,
+        "name": "Dodecagon",
+    },
+    {
+        "side": 13,
+        "name": "Tridecagon",
+    },
+    {
+        "side": 14,
+        "name": "Tetradecagon",
+    },
+    {
+        "side": 15,
+        "name": "Pentadecagon",
+    },
+    {
+        "side": 16,
+        "name": "Hexadecagon",
+    },
+    {
+        "side": 17,
+        "name": "Heptadecagon",
+    },
+    {
+        "side": 18,
+        "name": "Octakaidecagon",
+    },
+    {
+        "side": 19,
+        "name": "Enneadecagon",
+    },
+    {
+        "side": 20,
+        "name": "Icosagon",
+    },
+]
