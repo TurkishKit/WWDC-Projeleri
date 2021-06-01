@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diffs</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>85</string>
+			<key>ModifiedRange</key>
+			<string>{1689, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1689, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>9019</string>
+			<key>ModifiedRange</key>
+			<string>{1692, 4}</string>
+			<key>OriginalContent</key>
+			<string>666666</string>
+			<key>OriginalRange</key>
+			<string>{1690, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>07</string>
+			<key>ModifiedRange</key>
+			<string>{1697, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1697, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>4313</string>
+			<key>ModifiedRange</key>
+			<string>{1700, 4}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1698, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>2509803921568627</string>
+			<key>ModifiedRange</key>
+			<string>{1716, 16}</string>
+			<key>OriginalContent</key>
+			<string>764705896</string>
+			<key>OriginalRange</key>
+			<string>{1710, 9}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>47</string>
+			<key>ModifiedRange</key>
+			<string>{1743, 2}</string>
+			<key>OriginalContent</key>
+			<string>2666666</string>
+			<key>OriginalRange</key>
+			<string>{1730, 7}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>431372549</string>
+			<key>ModifiedRange</key>
+			<string>{1746, 9}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1738, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>19</string>
+			<key>ModifiedRange</key>
+			<string>{1756, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1739, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>3</string>
+			<key>ModifiedRange</key>
+			<string>{1759, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1740, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.0</string>
+			<key>ModifiedRange</key>
+			<string>{1770, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1750, 0}</string>
+		</dict>
+	</array>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
