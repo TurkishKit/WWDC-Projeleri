@@ -23,5 +23,4 @@ Kendi başvurularınızı eklemek için [CONTRIBUTING.md](CONTRIBUTING.md) dosya
 
 &nbsp;
 
-[![icon](https://www.turkishkit.com/wp-content/uploads/2019/08/Newsletter-4-1-1.svg)](https://turkishkit.com)  
 Copyright © 2021 TurkishKit — Tüm Hakları Saklıdır
