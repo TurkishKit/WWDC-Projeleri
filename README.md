@@ -1,6 +1,6 @@
 # WWDC Projeleri
 ### WWDC Scholarship ve Swift Student Challenge için hazırlanmış playground projelerini keşfedin!
-Kendi başvurularınızı eklemek için [CONTRIBUTING.md]() dosyasını okuyabilirsiniz.
+Kendi başvurularınızı eklemek için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını okuyabilirsiniz.
 
 &nbsp;
 
