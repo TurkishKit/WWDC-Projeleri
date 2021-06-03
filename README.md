@@ -11,6 +11,7 @@ Kendi başvurularınızı eklemek için [CONTRIBUTING.md](CONTRIBUTING.md) dosya
 |[Baran Önen](https://github.com/baranonen)|[Barcodes](https://github.com/baranonen/WWDC21-Barcodes)||SwiftUI, SpriteKit|🥳 Kabul Edildi|
 |[Berkin Ceylan](https://github.com/berkinceylan)|[IdeaPrax](https://github.com/berkinceylan/WWDC21)||SwiftUI, AVFoundation|🚀 Başvuruldu|
 |[Can Balkaya](https://github.com/canbalkaya)| [Machine Dreams](https://github.com/canbalkaya/Machine-Dreams-WWDC21)||ARKit, SceneKit, CoreML, SwiftUI|🚀 Başvuruldu|
+|[Furkan Hancı](https://github.com/Furkanus)| [BioShine](https://github.com/Furkanus/BioShine)||SwiftUI |✏️ Reddedildi|
 |[Mehmet Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[The ADHD Exploration](https://github.com/BertanT/The-ADHD-Exploration-WWDC21)||SwiftUI, Combine, PhotosUI|🥳 Kabul Edildi|
 
 &nbsp;
