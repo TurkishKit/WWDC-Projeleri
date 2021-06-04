@@ -13,6 +13,7 @@ Kendi başvurularınızı eklemek için [CONTRIBUTING.md](CONTRIBUTING.md) dosya
 |[Can Balkaya](https://github.com/canbalkaya)| [Machine Dreams](https://github.com/canbalkaya/Machine-Dreams-WWDC21)||ARKit, SceneKit, CoreML, SwiftUI|🚀 Başvuruldu|
 |[Furkan Hancı](https://github.com/Furkanus)| [BioShine](https://github.com/Furkanus/BioShine)||SwiftUI |✏️ Reddedildi|
 |[Mehmet Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[The ADHD Exploration](https://github.com/BertanT/The-ADHD-Exploration-WWDC21)||SwiftUI, Combine, PhotosUI|🥳 Kabul Edildi|
+|[Ufuk Köşker](https://github.com/ufukkosker)| [Line Tic Tac Toe](https://github.com/ufukkosker/LineTicTacToe)||SwiftUI, CMMotionManager, CAEmitterLayer|🥳 Kabul Edildi|
 
 &nbsp;
 
