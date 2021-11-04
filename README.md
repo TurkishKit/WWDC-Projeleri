@@ -22,7 +22,7 @@ Kendi başvurularınızı eklemek için [CONTRIBUTING.md](CONTRIBUTING.md) dosya
 |-----------|-------|-------|-------------------------|----------------|
 |[Berkin Ceylan](https://github.com/berkinceylan)|[Shapes](https://github.com/berkinceylan/WWDC20)|[YouTube](https://www.youtube.com/watch?v=uN7Ea_Ihduw)|SwiftUI, AVFoundation|✏️ Reddedildi|
 |[Can Balkaya](https://github.com/canbalkaya)| [Evape](https://github.com/canbalkaya/Evape-WWDC20)|[YouTube](https://www.youtube.com/watch?v=QMQnLFypW3Y)|SwiftUI|🥳 Kabul Edildi|
-|[Mehmet Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|WWDC20 Badge Creator||SwiftUI|🥳 Kabul Edildi|
+|[Mehmet Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[WWDC20 Badge Creator](https://github.com/BertanT/WWDC20-Badge-Creator)||SwiftUI|🥳 Kabul Edildi|
 
 &nbsp;
 
