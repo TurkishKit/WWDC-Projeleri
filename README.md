@@ -5,7 +5,7 @@ Kendi başvurularınızı eklemek için [CONTRIBUTING.md](CONTRIBUTING.md) dosya
 &nbsp;
 
 ## WWDC21 Swift Student Challenge
-| Yazılımcı | Proje | Video | Kullanılan Teknolojiler | Başvuru Durumu |
+| Katılımcı | Proje | Video | Kullanılan Teknolojiler | Başvuru Durumu |
 |-----------|-------|-------|-------------------------|----------------|
 |[Alperen Örence](https://github.com/alperenorence)|[Chatbots](https://github.com/alperenorence/chatbots)||SwiftUI, Combine|🥳 Kabul Edildi|
 |[Baran Önen](https://github.com/baranonen)|[Barcodes](https://github.com/baranonen/WWDC21-Barcodes)||SwiftUI, SpriteKit|🥳 Kabul Edildi|
@@ -18,7 +18,7 @@ Kendi başvurularınızı eklemek için [CONTRIBUTING.md](CONTRIBUTING.md) dosya
 &nbsp;
 
 ## WWDC20 Swift Student Challenge
-| Yazılımcı | Proje | Video | Kullanılan Teknolojiler | Başvuru Durumu |
+| Katılımcı | Proje | Video | Kullanılan Teknolojiler | Başvuru Durumu |
 |-----------|-------|-------|-------------------------|----------------|
 |[Berkin Ceylan](https://github.com/berkinceylan)|[Shapes](https://github.com/berkinceylan/WWDC20)|[YouTube](https://www.youtube.com/watch?v=uN7Ea_Ihduw)|SwiftUI, AVFoundation|✏️ Reddedildi|
 |[Can Balkaya](https://github.com/canbalkaya)| [Evape](https://github.com/canbalkaya/Evape-WWDC20)|[YouTube](https://www.youtube.com/watch?v=QMQnLFypW3Y)|SwiftUI|🥳 Kabul Edildi|
@@ -26,4 +26,4 @@ Kendi başvurularınızı eklemek için [CONTRIBUTING.md](CONTRIBUTING.md) dosya
 
 &nbsp;
 
-Copyright © 2021 TurkishKit — Tüm Hakları Saklıdır
+Copyright © 2022 TurkishKit — Tüm Hakları Saklıdır
