@@ -2,7 +2,7 @@
 ### WWDC Scholarship ve Swift Student Challenge için hazırlanmış playground projelerini keşfedin!
 Kendi başvurularınızı eklemek için [CONTRIBUTING.md](CONTRIBUTING.md) okuyabilirsiniz.
 
-Swift Student Challenge'a hazırlanmak ve WWDC'de tanıtılan yenlikleri öğrenmek için [TurkishKit Blog'unu keşkedin](https://medium.com/turkishkit/wwdc/home)!
+Swift Student Challenge'a hazırlanmak ve WWDC'de tanıtılan yenlikleri öğrenmek için [TurkishKit Blog'unu keşfedin](https://medium.com/turkishkit/wwdc/home)!
 
 &nbsp;
 
