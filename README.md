@@ -11,6 +11,7 @@ Swift Student Challenge'a hazırlanmak ve WWDC'de tanıtılan yenlikleri öğren
 |-----------|-------|-------|-------------------------|----------------|
 |[Mehmet Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[BlinkBoard](https://github.com/BertanT/BlinkBoard-WWDC22)||SwiftUI, Core Animation, Vision|🚀 Başvuruldu|
 
+&nbsp;
 
 ## WWDC21 Swift Student Challenge
 | Katılımcı | Proje | Video | Kullanılan Teknolojiler | Başvuru Durumu |
