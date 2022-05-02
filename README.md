@@ -10,6 +10,7 @@ Swift Student Challenge'a hazırlanmak ve WWDC'de tanıtılan yenlikleri öğren
 | Katılımcı | Proje | Video | Kullanılan Teknolojiler | Başvuru Durumu |
 |-----------|-------|-------|-------------------------|----------------|
 |[Mehmet Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[BlinkBoard](https://github.com/BertanT/BlinkBoard-WWDC22)||SwiftUI, Core Animation, Vision|🚀 Başvuruldu|
+|[Bedir Ekim](https://bedir.xyz)|[Securencrypt](https://github.com/BedirXYZ/Securencrypt-WWDC22)||AVFoundation, SwiftUI, UIKit, Vision|🚀 Başvuruldu|
 
 &nbsp;
 
